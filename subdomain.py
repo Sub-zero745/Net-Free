@@ -38,7 +38,7 @@ def obtener_subdominios_securitytrails(dominio, api_key):
         
 subdominios_security = []
 
-api_keys = ["gVuVlYA3X7qiK96WceRXaNOTFVOIFUhG","7RKh8hBSw-0cUuBsmntVHQSa67N7-3P6"]
+api_keys = ["zi65975VCz2lStzBSmPaBGmZcbTPWWMP"]
 for api_key in api_keys:
     subdominios = obtener_subdominios_securitytrails(dominio, api_key)
     if subdominios:
