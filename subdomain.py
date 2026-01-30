@@ -51,7 +51,7 @@ if len(subdominios_security) != 0:
 
 
 
-API_KEY = 'dca52eaea2750def58646f6d64f6a0f9ecf29ceb9315173af02bbceee52b3e8a'
+API_KEY = '30c25839d28b2e90f62b47beac3663d3265 6079cfdd47facd8dc33c21a720340'
 
 def obtener_subdominios(dominio):
     headers = {'x-apikey': API_KEY}
