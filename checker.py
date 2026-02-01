@@ -11,7 +11,7 @@ from ipaddress import IPv4Address
 from queue import Queue
 
 DEFAULT_TIMEOUT = 3.0
-DEFAULT_THREADS = 100
+DEFAULT_THREADS = 50
 
 host_fount = []
 datos = []
